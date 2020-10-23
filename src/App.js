@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Input from "./components/Input";
 import Button from "./components/Button";
 import ChatList from "./components/ChatList";
-import io from "socket.io-client";
 import { Bot } from "./bot";
 import { createMessagePayload, User } from './utils';
 
