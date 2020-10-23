@@ -1,4 +1,3 @@
-import React from "react";
 import { createMessagePayload } from './utils'
 
 export class Bot {
